@@ -39,7 +39,9 @@ class MainActivity : ComponentActivity() {
                             painter = painterResource(id = R.drawable.i149025766),
                             contentDescription = "My Image"
                         )
-                        Text(text = "This is my image")
+                        Text(text = "Ageu")
+                        Text(text = "Ageu2")
+                        Text(text = "DeveloperStudent")
                     }
                 }
             }
